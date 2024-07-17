@@ -1,0 +1,259 @@
+SCRUM
+*****
+- Es un framework de trabajo procedente de la filosofía de las metodologías ágiles, adaptable y no tiene pautas fijas y rígidas (no es una metodología).
+
+
+Definiciones en SCRUM
+=====================
+
+Sprint
+------
+- Bloques temporales, cortos y fijos de trabajo, los cuales operan según el rol y se estiman 2-4 semanas de duración.
+- Un proyecto de trabajo se compone de varios sprints.
+
+Backlog
+-------
+Lista de tareas que deben realizarse en el proyecto a través de los sprints.
+
+Daily SCRUM
+-----------
+Reuniones de evaluación y feedback que el equipo de trabajo brinda al SCRUM master.
+
+
+Roles de un equipo SCRUM
+------------------------
+
+Product owner:
+- A pesar del nombre, no es el dueño del producto, sino solo un nexo entre los equipos de desarrollo y los de gestión (toma de decisiones).
+- Es el que toma las decisiones fundamentales sobre el producto o proyecto, pone las directrices para componer los sprints con sus plazos y tareas a ejecutar.
+- Pone los objetivos, requerimientos y metas del proyecto.
+- No necesariamente está familiarizado con SCRUM.
+
+SCRUM master:
+- Vigila que el equipo de trabajo de acuerdo a las guías de SCRUM.
+- Organiza, gestiona, hace reuniones, etc., junto con el equipo de desarrollo.
+- Supervisa el desempeño de la ejecución del proyecto a través de varios mecanismos como el backlog.
+- A diferencia del product owner, sí debe dominar las nociones y prácticas de SCRUM.
+
+Equipo de desarrollo:
+- Es el equipo que se encarga de ejecutar el proyecto y desarrollar el producto según los lineamientos SCRUM y los requerimientos planteados por el owner.
+
+Grupos que influyen en el desarrollo del producto:
+- Consumidores: grupos internos de la empresa que verifican el cumplimiento de los requerimientos del producto.
+- Usuarios: los usuarios finales, o clientes, que usan el producto final salido al mercado.
+
+Cascada vs SCRUM
+================
+
+Los aspectos clave a los que nos enfrentamos en la gestión de proyectos son:
+- Control.
+- Predictibilidad.
+
+Cascada (Waterfall)
+-------------------
+- Desarrollo considerado ahora como tradicional, consiste en etapas secuenciadas sucedidas una tras otra para cumplir los objetivos de un proyecto: análisis, requerimientos, diseño, desarrollo, testing e implementación.
+- Tiene como principal supuesto el considerar que los requerimientos son estables y los factores situacionales están controlados.
+
+SCRUM
+-----
+SCRUM tiene como principios:
+- Inspeccionar y adaptar: SCRUM considera primordial el monitoreo de cualquier elemento que contribuya con el desarrollo del proyecto, así como la debida adaptación de cada uno a dicho proyecto de forma minuciosa.
+- Priorizar para optimizar: el criterio de priorización es tomar lo que genera mayor valor agregado al proyecto.
+- Transparencia: todo el equipo debe conocer las actividades y compromisos en SCRUM.
+
+
+Estimaciones de tiempos en SCRUM
+================================
+
+Aprendizaje
+-----------
+- Conocer el feedback que resulta de las experiencias de trabajo, esto es, saber los niveles de dificultad, impedimentos y comodidad del trabajo.
+- Necesidad de mejora a partir de los sprints realizados.
+
+Impedimentos
+------------
+- Estudiar las causas del por qué no se ha podido lograr cumplir con las tareas del backlog.
+- Detectar los cuellos de botella del flujo de tareas por los cuales nos sintamos estancados.
+- Evaluar, según lo anterior, medidas de elementos que sean óptimos en términos de tiempo y recursos.
+
+Velocidad de realización de tareas
+----------------------------------
+- Trabajar para eliminar los impedimentos para la ejecución del proyecto.
+
+
+Equipos de trabajo en SCRUM
+===========================
+
+Característica de un equipo SCRUM
+---------------------------------
+1. Trascendencia: cada integrante del equipo entiende su propósito y sus capacidades para lograr el proyecto en conjunto.
+2. Autonomía: saben organizarse y gestionarse por sí mismos.
+3. Multifuncionalidad: tienen múltiples capacidades para realizar el trabajo en equipo.
+
+Cómo armar un equipo multifuncional en SCRUM
+--------------------------------------------
+1. Evaluar las capacidades de cada integrante.
+2. Minimizar las dependencias externas.
+3. Considerar que los procesos ayuden a constituir un equipo multifuncional.
+
+Identificación de roles e identidad social
+------------------------------------------
+- Identidad social: es el grado de identificación que tiene cada integrante con respecto al equipo al que pertenece.
+En los equipos tradicionales, la identidad social es baja debido a la poca transparencia, individualidad y a la reserva de información.
+En equipos multifuncionales, la identidad social es alta por la cohesión con entre integrantes, alta transparencia y logros compartidos.
+- Rol en el equipo: es importante saber qué rol se tiene en el equipo sin tener que generar conflicto con su identificación en el equipo.
+- En equipos multifuncionales se trabaja conjuntamente compartiendo conocimientos entre equipos, cooperando mutuamente y apuntando a un mismo objetivo.
+
+Tamaño del equipo SCRUM
+-----------------------
+Se espera que los equipos sean pequeños. No más de 7 u 8 personas.
+El impacto del tamaño del equipo viene dado por la cantidad de canales de comunicación, por la fórmula: CDC = n*(n-1)/2, donde "n" es la cantidad de integrantes del equipo.
+Por ello, se espera que el tamaño de equipo no genere muchos canales de comunicación, ya que afectaría la performance del mismo.
+
+Error fundamental de atribución
+-------------------------------
+Ante situaciones incómodas en el equipo (errores, problemas de rendimiento, etc.), este error consiste en la caza de culpables en lugar de evaluar (y cambiar) las reglas de juego en el equipo. Esto es fundamental en SCRUM, ya que se debe manejar una visión de equipo en todo momento.
+
+
+Gestión del tiempo SCRUM
+========================
+- Para gestionar el tiempo, se considera la definición del sprint para definir las actividades y los tiempos que las ocupan (1-2 semanas para cada sprint). Cabe recordar que los sprints se toman de un backlog que representa las actividades del proyecto. De ese conjunto de sprints es que depende la gestión.
+- El propósito con las siguientes propuestas de gestión de tiempo en SCRUM es ahorrar tiempo y ser más eficientes con el mismo, aprendiendo de todo lo hablado en cada reunión.
+
+Kanban Desk
+-----------
+- Esquema de trabajo que consta de columnas secuenciadas de las actividades y sus estados. Las columnas son:
+    * Backlog: todos los sprints del proyecto.
+    * Por hacer.
+    * En proceso.
+    * Finalizadas.
+- Características del Kanban:
+    * Las tareas son inamovibles: se definen tal cual y se resuelven en el período indicado. Si hay fallas o bloqueantes de la tarea, se tendrá que redefinir dicha tarea.
+	* Cada item del backlog debe contener una sola tarea.
+    * El Kanban debe ser transparente para todo el equipo.
+    * Deben respetarse las duraciones.
+
+Daily Meeting (reuniones)
+-------------------------
+- Reuniones diarias para supervisión de las tareas y feedback acerca de las mismas. Se deben apreciar los avances, obstáculos y necesidades de mejora del equipo.
+- Las preguntas del SCRUM Master deben basarse en estas:
+    * ¿Qué hiciste ayer para ayudar al equipo a terminar el sprint?
+    * ¿Qué harás hoy para ayudar al equipo a terminar el sprint?
+    * ¿Qué obstáculos tiene tu equipo para realizar los trabajos?
+- Una daily meeting se trata de intercambio de experiencias, en lugar de un simple reporte de estatus.
+- Consideraciones de una daily meeting exitosa:
+    * Debe realizarse todos los días, por 15 minutos y, de preferencia, al iniciar la jornada.
+    * Todos los miembros del equipo deben estar presentes.
+    * Todos los miembros del equipo deben suspender sus actividades y enfocarse en la reunión, no solo escuchando pasivamente sino comunicando lo que es pertinente para el equipo.
+
+
+SCRUM y la manera de hacer las tareas
+=====================================
+
+El problema del multitasking
+----------------------------
+- Hacer muchas tareas a la vez no es eficiente por varias razones: desgaste mental, pérdida de concentración y enfoque y el costo de cambiar de un contexto de tarea a otro.
+- Una tarea bien hecha depende del foco adecuado que se le da, lo cual no pasa con la forma tradicional de multitarea.
+
+El sobre-énfasis en el trabajo duro
+-----------------------------------
+- El trabajo basado en la carga excesiva y la presión constante impiden que éste sea eficiente.
+- Son conocidos los efectos en la salud que causa el trabajo que se considera duro.
+
+SCRUM trata de romper el paradigma de la productividad basada en horas, cambiándola por las métricas de la producción.
+
+Identificar desechos para eliminarlos
+-------------------------------------
+Estos desechos son:
+- El absurdo (absurdity): fijar metas absurdas e imposibles al equipo.
+- Expectativas irracionales (unreasonable expectations): expectativas que solo se resuelven en momentos de crisis y que de continuo se convierten en una constante en la situación laboral.
+- Sobrecarga (overburden): exceso de formalidades (reuniones, llenar formularios, etc.) para mostrar el cumplimiento de tareas.
+- Desperdicio emocional (emotional waste): dominación y manipulación mental por encima del liderazgo sano.
+
+
+Planificación en SCRUM
+======================
+
+Cambiar las "tareas" por "historias"
+------------------------------------
+- Las tareas no deben definirse con términos genéricos, sino específicos y exactos, comprensibles para que el integrante del equipo las resuelva eficientemente.
+- Las personas entendemos las actividades como historias: al traducir las tareas a historias se cambia la manera de indicar las actividades, de tareas escritas en abstracto a acciones comprensibles para quien ejecuta y que pueda "vivirlas" como la historia que es.
+- Una historia se compone de tres elementos:
+* Personaje: es la persona para la cual realizamos las tareas.
+* ¿Qué es lo que hay que hacer en la historia?
+* ¿Para qué hacer lo que se pide en la historia? O sea, el propósito de la historia.
+- Una historia puede representar a todo el proyecto/producto, como también a cada una de las actividades que componen el mismo.
+- Las historias deben ser específicas y accionables, siendo el equipo el responsable de determinar la manera de ejecutarlas.
+
+Ejemplo: Amazon Kindle
+----------------------
+- Gran historia (general): poner a disposición del usuario la librería online más grande del mundo para poder comprar el libro que quiera en el momento que quiera.
+- Historias específicas:
+1. Como consumidor, quiero buscar y filtrar libros por género. Así podré encontrar fácilmente y comprar los libros que me gustan.
+2. Como Product Manager, quiero rastrear las compras de libros de cada consumidor. Así puedo incluir libros más específicos en función de las compras de libros anteriores.
+
+Cualquier otra historia específica para el app Kindle debe tener una definición similar a las dos anteriores.
+
+Criterio INVEST
+---------------
+Una historia debe pasar por el criterio INVEST, que significa que debe ser:
+- Independiente (Independent): la historia debe ser accionable y completable por sí misma, independiente de otras historias.
+- Negociable (Negotiable): la historia debe ser capaz de admitir cambios.
+- Valiosa (Valuable): la historia debe proporcionar valor al producto final.
+- Estimable: la historia debe tener un inicio, un fin y elementos que puedan ser medibles.
+- Pequeña (Small): la historia debe ser fácilmente planificable.
+- Testeable (Testable): la historia tiene que poder considerarse finalizada.
+
+Organizar historias por valor
+-----------------------------
+- Listar las historias.
+- Descartar las historias que no sean relevantes en valor.
+
+Cómo medir los tiempos de las historias
+---------------------------------------
+- Asignar valores por tamaño a las tareas.
+- Una referencia de distinción de valores sería la sucesión de Fibonacci.
+- Un ejemplo especial es la estimación de póker.
+
+Velocidad del trabajo
+---------------------
+- Estimar a partir de las tareas del backlog:
+Tiempo restante = tareas pendientes de finalizar/tareas finalizadas
+
+Mínimo producto viable
+----------------------
+Un MPV es el logro temporal que debe tenerse para presentarlo como algo que funcione y que pueda ganar la debida retroalimentación.
+Considera dos cosas:
+- El backlog está en constante cambio.
+- Los cambios permitirán lograr el MPV al finalizar cada sprint.
+Un MPV, entonces, viene a ser un producto que, para cada sprint, se pueda probar y se pueda aprender a través de la retroalimentación.
+
+
+Felicidad y Rendimiento
+=======================
+- SCRUM busca cuantificar la felicidad del equipo por medio de la retrospectiva del sprint.
+
+Retrospectiva del sprint
+------------------------
+Se basa en una evaluación tipo encuesta elaborada como sigue:
+
+1. En una escala del 1-5, ¿cómo te sientes en tu rol en la compañía?
+2. En esa misma escala, ¿cómo te sientes en la compañía en general? ¿Por qué te sientes de esa manera?
+3. ¿Qué te haría más feliz en el siguiente sprint?
+
+Debe realizarse al finalizar cada sprint.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
